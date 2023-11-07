@@ -1,0 +1,32 @@
+#menu{
+    background-color:#E0FFFF;   
+}
+#menu2{
+    margin: 10px;
+    font-size: 20px;
+    
+}
+#login{
+    text-align: center;
+    background-color: cyan;
+    margin-left: 500px;
+    margin-right: 500px;
+    
+}
+#hlogin{
+    text-align: center;
+}
+#registro{
+    text-align: center;
+    background-color: cyan;
+    height: 100%;
+    
+}
+#citasMenu{
+    margin-top: 10px;
+    font-size:x-large;
+    
+}
+table {
+    width: 100%;
+  }
